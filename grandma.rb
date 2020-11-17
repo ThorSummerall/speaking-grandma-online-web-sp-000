@@ -14,7 +14,7 @@
 def speak_to_grandma(phrase)
   if phrase == "I LOVE YOU GRANDMA!"
     return puts "I LOVE YOU TOO PUMPKIN!"
-  else phase.downcase
+  else phrase.downcase
     return puts "SPEAK UP, SONNY!"
   end
 
