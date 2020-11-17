@@ -17,5 +17,5 @@ def speak_to_grandma(phrase)
   else phase.downcase
     return puts "SPEAK UP, SONNY!"
   end
-    
+
 end
